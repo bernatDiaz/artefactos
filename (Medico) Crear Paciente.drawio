@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T13:54:27.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="VHmBIE0flH8zOFhPmXsM" version="16.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-27T13:55:13.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="LMpLPQF7KrT_U6OL8q6-" version="16.4.8" type="github">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="770" dy="1382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="gIcC4kHjiw92RsgYredK-7" value="" style="swimlane;startSize=0;" vertex="1" parent="7026571954dc6520-1">
           <mxGeometry x="30" y="480" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gIcC4kHjiw92RsgYredK-8" value="Guardar" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="30" y="720" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
