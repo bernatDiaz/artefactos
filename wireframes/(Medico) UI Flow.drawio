@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T16:13:43.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="36DIJ1fYDrQFUPZdsr_K" version="16.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-28T16:16:24.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="su_7X_Aba-fLcW1Cee4U" version="16.5.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="770" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="tOi5ClpqEJdIg5bXff7a-0" value="Pantalla principal" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="90" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tOi5ClpqEJdIg5bXff7a-2" value="Crear paciente" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="tOi5ClpqEJdIg5bXff7a-2" value="Crear paciente&lt;br&gt;(Medico)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="620" y="90" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tOi5ClpqEJdIg5bXff7a-4" value="Botón crear paciente" style="endArrow=classic;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tOi5ClpqEJdIg5bXff7a-0" target="tOi5ClpqEJdIg5bXff7a-2" edge="1">
@@ -31,7 +31,7 @@
             <mxPoint x="300" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tOi5ClpqEJdIg5bXff7a-10" value="Detalles del paciente" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="tOi5ClpqEJdIg5bXff7a-10" value="Detalles del paciente&lt;br&gt;(Medico)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="360" y="380" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tOi5ClpqEJdIg5bXff7a-12" value="Tests de la marcha" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
