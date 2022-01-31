@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T12:19:13.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="fGk4w5YcJmEgW0qc-0Yq" version="16.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-31T08:53:40.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="4k-cxU5USoympPZ3uWsF" version="16.5.2" type="github">
   <diagram name="Page-1" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
-    <mxGraphModel dx="765" dy="1382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="770" dy="1350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,25 @@
           <mxGeometry x="30" y="300" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gIcC4kHjiw92RsgYredK-8" value="Guardar" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" parent="7026571954dc6520-1" vertex="1">
-          <mxGeometry x="20" y="360" width="150" height="50" as="geometry" />
+          <mxGeometry x="15" y="650" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uBKHOHKqDzPIjcdErfqd-2" value="Médicos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="30" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uBKHOHKqDzPIjcdErfqd-4" value="Medico 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="30" y="410" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uBKHOHKqDzPIjcdErfqd-5" value="Añadir otro" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="30" y="500" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uBKHOHKqDzPIjcdErfqd-6" value="Medico 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="30" y="455" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uBKHOHKqDzPIjcdErfqd-7" value="Eliminar" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="170" y="450" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uBKHOHKqDzPIjcdErfqd-8" value="Eliminar" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.button;dx=10;" vertex="1" parent="7026571954dc6520-1">
+          <mxGeometry x="165" y="405" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
